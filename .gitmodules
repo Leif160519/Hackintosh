@@ -7,3 +7,12 @@
 [submodule "MSI/Leif160519.MSI-B360M-MORTAR-EFI"]
 	path = MSI/Leif160519.MSI-B360M-MORTAR-EFI
 	url = https://github.com/Leif160519/MSI-B360M-MORTAR-EFI.git
+[submodule "Tools/daliansky.Hackintosh"]
+	path = Tools/daliansky.Hackintosh
+	url = https://github.com/daliansky/Hackintosh.git
+[submodule "Tools/lihaoyun6.macOS-Displays-icon"]
+	path = Tools/lihaoyun6.macOS-Displays-icon
+	url = https://github.com/lihaoyun6/macOS-Displays-icon.git
+[submodule "整合/tsingui.clover-efi"]
+	path = 整合/tsingui.clover-efi
+	url = https://github.com/lihaoyun6/macOS-Displays-icon.git
