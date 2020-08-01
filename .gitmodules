@@ -1,0 +1,9 @@
+[submodule "Dell/Leif160519.Dell-OptiPlex-3050-EFI"]
+	path = Dell/Leif160519.Dell-OptiPlex-3050-EFI
+	url = https://github.com/Leif160519/Dell-OptiPlex-3050-EFI.git
+[submodule "Gigabyte/Leif160519.Gigabyte-B85-HD3-EFI"]
+	path = Gigabyte/Leif160519.Gigabyte-B85-HD3-EFI
+	url = https://github.com/Leif160519/Gigabyte-B85-HD3-EFI.git
+[submodule "MSI/Leif160519.MSI-B360M-MORTAR-EFI"]
+	path = MSI/Leif160519.MSI-B360M-MORTAR-EFI
+	url = https://github.com/Leif160519/MSI-B360M-MORTAR-EFI.git
