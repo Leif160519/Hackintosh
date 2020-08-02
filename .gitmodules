@@ -16,3 +16,6 @@
 [submodule "整合/tsingui.clover-efi"]
 	path = 整合/tsingui.clover-efi
 	url = https://github.com/lihaoyun6/macOS-Displays-icon.git
+[submodule "Tools/lihaoyun6.ssdtPRGen.sh"]
+	path = Tools/lihaoyun6.ssdtPRGen.sh
+	url = https://github.com/lihaoyun6/ssdtPRGen.sh.git
